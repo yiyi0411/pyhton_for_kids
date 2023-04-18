@@ -15,6 +15,5 @@ This is a Turtle module for the Jupyter Notebook. It’s based on code by aspidi
 <img src="imgs/flower.png" style= float:left width=200 length=200>
 3. Maple Leaf<br>
 <img src="imgs/maple_leaf.png" style= float:left width=200 length=200>
-4. [Amazing Spiral](https://twitter.com/clcoding/status/1563370121552220161/photo/1)
-<br>
+4. <a href="https://www.youtube.com/watch?v=GgSCXPlky9A&ab_channel=PythonCoding">Amazing Spiral</a><br>
 <img src="imgs/img.png" style= float:left width=200 length=200>
